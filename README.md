@@ -36,10 +36,5 @@ if it has not been installed please navigate to https://nodejs.org/en/download/.
 npm i
 ```
 
-## Usage
-
-```
-as a single developer, I want to meet other single developers in an easy to use app. 
-```
 
 
