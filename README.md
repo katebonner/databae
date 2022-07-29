@@ -1,13 +1,16 @@
 ## databae version 1.0.0
 
 ## Description
- This project is a CMS-style chat app, where developers can find and 'commit' to love. This app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
+ This project is a CMS-style chat app, where developers can chat publicly and anonymously. This app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
 ![landing page](./IMAGES/LANDING.png)
 
 ![login page](./IMAGES/LOGIN.png)
 
 ![chat page](./IMAGES/CHAT.png)
+
+LINK TO DEPLOYED APPLICATION:
+https://warm-castle-61727.herokuapp.com/
 
 ## Table of Contents 
 
