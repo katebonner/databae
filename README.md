@@ -24,9 +24,7 @@ https://warm-castle-61727.herokuapp.com/
 To install this project, navigate to your comand line console (for simplicity we will assume you are using terminal) and:
 
 Clone this repository.
-```md
-git clone git@github.com:Bprendaj/databae.git
-```
+
 ensure you have installed node.js by checking the version.
 ```md
 node -v
