@@ -34,5 +34,10 @@ if it has not been installed please navigate to https://nodejs.org/en/download/.
 npm i
 ```
 
+## Credits
+
+This project is derivative of a group project, where my commite can be found here: https://github.com/Bprendaj/databae
+
+
 
 
