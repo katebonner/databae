@@ -36,7 +36,7 @@ npm i
 
 ## Credits
 
-This project is derivative of a group project, where my commits can be found here: https://github.com/Bprendaj/databae
+This project is derivative of a group project, where my original commits live: https://github.com/Bprendaj/databae
 
 
 
